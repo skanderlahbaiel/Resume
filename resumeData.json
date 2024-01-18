@@ -1,0 +1,225 @@
+{
+  "main": {
+    "name":"Skander Lahbaiel",
+    "description":"Final-year Software Engineering student at MedTech, experienced in full-stack development and cloud technologies. Passionate about innovative technology and eager to drive impactful digital solutions.",
+    "image":"Skander Lahbaiel.png",
+    "bio":"I'm Skander Lahbaiel, a Software Engineering student specializing in full-stack development with skills in React, Redux, NodeJs, TypeScript, and Java. Experienced in Maven, SQL Server, and NoSQL databases, I'm also proficient in cloud deployments using Azure and AWS. Skilled in CI/CD practices with Git, GitLab, Jenkins, and Docker, I adeptly employ Agile, Scrum, TDD, and BDD methodologies. My approach is characterized by effective communication, teamwork, adaptability to new technologies, and a passion for continuous learning and development.",
+    "contactmessage":"Got an idea that's out of this world? Or just want to chat about cats in space suits? Either way, I'm all ears! Drop me a line, and let's make the universe a bit more awesome together!",
+    "email": "skander.lahbaiel@medtech.tn",
+    "phone": "+21697376945",
+    "github":"https://github.com/skanderlahbaiel",
+    "project":"https://www.linkedin.com/in/skander-lahbaiel/",
+    "address":{
+      "street":"Rue 7600",
+      "city":"Jardins d'el Menzah 1",
+      "state":"Tunis",
+      "zip": "1093"
+    },
+    
+    "resumedownload":"public/Skander Lahbaiel Cv.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/skander.lahbaeil/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/sleepincupid",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/skander-lahbaiel/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/skanderlahbaiel/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/skanderlahbaiel",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Nerd Alert: Skills Beyond the Keyboard",
+    "education":[
+      {
+        "school":"MedTech - Mediterranean Institute Of Technology",
+        "degree":"Software Engineering Degree",
+        "graduated":"Juin 2024",
+        "description":"As a Software Engineering student at MedTech, I've been immersed in a curriculum that combines advanced technical knowledge, engineering practices, and emerging technologies. Courses such as 'Pervasive Computing and Cloud,' 'Data Analytics,' 'Algorithms and Complexity,' 'Development Methodologies (Agile),' and 'Cyber Security' have been particularly relevant for my career."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hathor Co-Working Space",
+        "title":"Full stack Developer ",
+        "years":" 06/2023 - 09/2023",
+        "description":"Leading the development of Hathor Co-Working Space's website, I utilized React and Redux for user engagement and integrated MySQL for content management. I also developed a staff application focused on user experience, using TypeScript, React, and Redux. My role included backend API development with Node.js and Express, incorporating WebSockets for real-time interactions and implementing continuous integration with Git, GitLab. I deployed it using Docker and Kubernetes. In project management, I applied Scrum and Agile methodologies. My work reflects a blend of diverse technologies and adaptive project leadership."
+      },
+      {
+        "company":"BIOINNOV-8",
+        "title":"Full Stack Developer / Python Developer",
+        "years":"06/2022 - 06/2023",
+        "description":"Directing the 'Chentayeb' mobile app's development with React Native, I enhanced user engagement and implemented TensorFlow and PyTorch for sophisticated image recognition. I designed user interfaces using React, focusing on user experience, and developed a Python server backend for efficient operation. My technical versatility shown in contributing to a Python-based scientific database website, utilizing React, Postgres, Jenkins, and Python. I oversaw the app's product lifecycle management, ensuring alignment with project goals, and employed Agile and Scrum methodologies for effective team collaboration and project milestone delivery."
+      },
+      {
+        "company":"International Bioservices",
+        "title":"Full Stack Developer",
+        "years":" 03/2022- 06/2022",
+        "description":"I developed Angular/TypeScript and Ionic interfaces, boosting data entry efficiency significantly. My full-stack expertise, encompassing React and back-end technologies, improved project flexibility and response times. In AI and Big Data, I integrated cutting-edge technologies with Azure and AWS cloud deployments, enhancing data security and analytics. I streamlined DevOps processes using Git, GitLab, Jenkins, and Docker for continuous integration and deployment. My mastery of programming languages like REST, Python, JavaScript, Java, XML, and Web showcases versatility and adaptability across various projects."
+      }
+    ],
+    "skills":[
+      {
+        "name":"TypeScript",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"86%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"90%"
+      },
+      {
+        "name":"Maven ",
+        "level":"80%"
+      },
+      {
+        "name":"Redux",
+        "level":"75%"
+      },
+      {
+        "name":"Docker",
+        "level":"80%"
+      },
+      {
+        "name":"Agile",
+        "level":"73%"
+      },
+      {
+        "name":"Springboot",
+        "level":"67%"
+      },
+      {
+        "name":"AWS",
+        "level":"83%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+     
+      {
+        "title":"Hathor staff app",
+        "category":"React, Redux ",
+        "image":"hathor staff.PNG",
+        "url":"https://github.com/skanderlahbaiel/Hathor-staff"
+      },
+      {
+        "title":"Hathor server",
+        "category":"NodeJs, Express, SQL ",
+        "image":"hathor-backend.png",
+        "url":"https://github.com/skanderlahbaiel/Hathor-bakend"
+      },
+      {
+        "title":"Microservices SpringBoot",
+        "category":"Java, Springboot, Docker, PostGres",
+        "image":"Java Microservices.PNG",
+        "url":"https://github.com/skanderlahbaiel/Car-microservices"
+      },
+      {
+        "title":"Hathor Website",
+        "category":"HTML, JavaScript, CSS",
+        "image":"hathor-website.PNG",
+        "url":"https://github.com/skanderlahbaiel/Hathor"
+      },
+      {
+        "title":"React Map App",
+        "category":"Cloned project to play! React, MapBox, Redux",
+        "image":"mapbox-redux.PNG",
+        "url":"https://github.com/skanderlahbaiel/Facial-recognition-backend"
+      },
+      {
+        "title":"AWS Dashboard",
+        "category":"React, JavaScript",
+        "image":"aws-front-dashboard.PNG",
+        "url":"https://github.com/skanderlahbaiel/Admin-Dasboard"
+      },
+      {
+        "title":"Facial recognition server",
+        "category":"Python, Tensorflow, Flask",
+        "image":"facialrecognition.png",
+        "url":"https://github.com/skanderlahbaiel/Facial-recognition-backend"
+      }
+    ]
+  },
+  "certifications":{
+    "certifications": [
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"git.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"js.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"python.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"react.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"backend.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"selenium1.jpg"
+        
+      },
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"mobile.jpg"
+        
+      },
+      
+      {
+        "title":"Git Certification",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"azure.jpg"
+        
+      }
+      
+      ]}
+}
