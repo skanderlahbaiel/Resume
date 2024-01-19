@@ -16,7 +16,7 @@
       "zip": "1093"
     },
     
-    "resumedownload":"public/Skander Lahbaiel Cv.pdf",
+    "resumedownload":"%PUBLIC_URL%/Skander Lahbaiel Cv.pdf",
     "social":[
       {
         "name":"facebook",
@@ -169,6 +169,32 @@
       }
     ]
   },
+  
+    "activities": [
+      {
+        "title": "Playing sports",
+        "description": "Kicking back and enjoying sports, padel, gym or football. Feel free to call me for a game.",
+        "date": "Until I can no more",
+        "image": "dumbbells.png"
+      },
+      {
+        "title": "Volunteer Work",
+        "description": "As Vice Treasurer at Rotaract Carthage Amilcar, managed financial responsibilities for community projects.",
+        "date": "2021-2022",
+        "image": "rotaract.png"
+      },
+      
+      
+      {
+        "title": "Open Source Contributions",
+        "description": "Let's say I do it from a time to time, when I'm really bored.",
+        "date": "Ongoing",
+        "image": "github.png"
+      }
+      
+    ],
+  
+  
   "certifications":{
     "certifications": [
       {
