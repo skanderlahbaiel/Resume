@@ -177,9 +177,73 @@ ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: #fe6928; }
 
 
+#activities  {
+   background: #191919;
+   padding-top: 40px;
+   padding-bottom: 66px;
+   overflow: hidden;
+   
+}
+#activities h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+/* Wrapper style */
+#activities-wrapper {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+ }
+ 
+ /* Activity item style */
+ .columns.activity-item {
+   width: 300px; /* Set a fixed width for each activity item */
+   margin-bottom: 30px;
+ }
+ 
+ /* Individual activity style */
+ .item-wrap {
+   width: 100%;
+   box-sizing: border-box;
+   transition: transform 0.3s ease-in-out;
+ }
+ 
+ .item-wrap:hover {
+   transform: scale(1.05);
+ }
+ 
+ /* Activity content style */
+ .item-wrap > div {
+   padding: 20px;
+   text-align: center;
+ }
+ 
+ .item-wrap h3 {
+   font: 16px/22px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+ }
+ 
+ .item-wrap p {
+   color: #fff;
+   line-height: 1.6;
+ }
+ /* Activity item image style */
+.item-wrap img {
+   width: 100%;
+   margin: 9%;
+   height: 200px; /* Set a fixed height for all images */
+   object-fit: contain; /* Maintain aspect ratio and cover the entire container */
+   border-radius: 0; /* Remove border radius */
+ }
+
+
 /* ------------------------------------------------------------------ */
 /* c. About Section
 /* ------------------------------------------------------------------ */
+
+
 
 #about {
    background: #000524;
