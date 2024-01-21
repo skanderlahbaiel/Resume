@@ -17,7 +17,7 @@ class Portfolio extends Component {
               <h3>{project.title}</h3>
               <p>{project.category}</p>
               <a href={project.url} target="_blank" rel="noopener noreferrer" className="button">
-                Visit Project
+                Github
               </a>
             </div>
           </div>

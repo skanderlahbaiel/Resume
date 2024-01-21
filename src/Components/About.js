@@ -14,8 +14,7 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
-
+    const resumeDownload = process.env.PUBLIC_URL + '/Skander Lahbaiel Cv.pdf';
     return (
       <section id="about">
         <Fade duration={1000}>

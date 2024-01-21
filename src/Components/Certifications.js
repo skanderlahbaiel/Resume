@@ -12,8 +12,9 @@ class Certifications extends Component {
       return (
         <div key={index} className="columns certification-item">
           <div className="item-wrap">
-            <Zmage alt={certification.name} src={certificationImage} />
-            <div style={{ textAlign: "center" }}>{certification.name}</div>
+            <Zmage alt={certification.title} src={certificationImage} />
+            <div style={{ textAlign: "center" }}>{certification.title}</div>
+            <p>{certification.category}</p>
           </div>
         </div>
       );
