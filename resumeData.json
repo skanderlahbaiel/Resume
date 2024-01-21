@@ -198,52 +198,80 @@
   "certifications":{
     "certifications": [
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Version Control",
+        "category":"Feb 4, 2023",
         "image":"git.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Programming with JavaScript",
+        "category":"Feb 1, 2023",
         "image":"js.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Programming in Python",
+        "category":"Mar 28, 2022",
         "image":"python.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"React Basics",
+        "category":"Feb 11, 2023",
         "image":"react.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Introduction to Back-End Development",
+        "category":"Aug 12, 2023",
         "image":"backend.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Create Your First Automation Script Using Selenium and Java",
+        "category":"Apr 2, 2023",
         "image":"selenium1.jpg"
         
       },
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Introduction to Mobile Development",
+        "category":"Jan 15, 2023",
         "image":"mobile.jpg"
         
       },
       
       {
-        "title":"Git Certification",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Getting Started with Azure DevOps Boards",
+        "category":"Jan 22, 2023",
         "image":"azure.jpg"
+        
+      },
+      
+      {
+        "title":"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+        "category":"Nov 7, 2022",
+        "image":"tensorflow.jpg"
+        
+      },
+      
+      {
+        "title":"Mocking with JUnit",
+        "category":"Apr 25, 2023",
+        "image":"mockingjunit.jpg"
+        
+      },
+      
+      {
+        "title":"Convolutional Neural Networks in TensorFlow",
+        "category":"Nov 15, 2022",
+        "image":"cnn.jpg"
+        
+      },
+      
+      {
+        "title":"Understanding Research Methods",
+        "category":"Dec 9, 2023",
+        "image":"research.jpg"
         
       }
       
